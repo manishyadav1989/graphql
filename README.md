@@ -20,3 +20,9 @@ list of books
 list of authors
 list of books with author details
 list of author with book details
+
+I am using static data set as in object
+
+install the dependecies with the below command and run the project
+npm i
+npm start // localhost:4000
